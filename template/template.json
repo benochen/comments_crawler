@@ -1,0 +1,130 @@
+{
+    "video": {
+        "id": "tjLXzMeDRx4&t",
+        "title": "La transidentité : au-delà des apparences, avec Chayka — SHOCKING ! 28 Part.3/9",
+        "channelId": "@MetadeChoc"
+    },
+    "author_section": [
+        {
+            "Tony Stark": {
+                "comment_section": {
+                    "count_comments": 2,
+                    "comments": [
+                        {
+                            "comment_id": "comment-id-1",
+                            "comment_characters_size": 500,
+                            "comment_type": "root",
+                            "sources:": []
+                        },
+                        {
+                            "comment_id": "comment-id-2",
+                            "comment_characters_size": 2500,
+                            "comment_type": "reply",
+                            "sources": [
+                                "https://unesource.fr",
+                                "https://uneautresource.com"
+                            ]
+                        }
+                    ]
+                },
+                "interaction_section": {
+                    "count_reply_to": 2,
+                    "count_has_reply": 3,
+                    "reply_to": [
+                        {
+                            "author_name": "Thanos",
+                            "count_reply": 2
+                        },
+                        {
+                            "author_name": "Tony Start",
+                            "count_reply": 2
+                        }
+                    ],
+                    "reply_from": [
+                        {
+                            "author_name": "Thanos",
+                            "count_reply": 2
+                        },
+                        {
+                            "author_name": "Tony Start",
+                            "count_reply": 2
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "Thanos": {
+                "comment_section": {
+                    "count_comments": 2,
+                    "comments": [
+                        {
+                            "comment_id": "comment-id12",
+                            "comment_characters_size": 500,
+                            "comment_type": "root",
+                            "sources:": []
+                        },
+                        {
+                            "comment_id": "comment-id-2",
+                            "comment_characters_size": 2500,
+                            "comment_type": "reply",
+                            "sources": [
+                                "https://unestroisiemeource.fr",
+                                "https://autremegabonnesource.com"
+                            ]
+                        }
+                    ]
+                },
+                "interaction_section": {
+                    "count_reply_to": 2,
+                    "count_has_reply": 3,
+                    "reply_to": [
+                        {
+                            "author_name": "Thanos",
+                            "count_reply": 2
+                        },
+                        {
+                            "author_name": "Tony Start",
+                            "count_reply": 2
+                        }
+                    ],
+                    "reply_from": [
+                        {
+                            "author_name": "Thanos",
+                            "count_reply": 2
+                        },
+                        {
+                            "author_name": "Tony Start",
+                            "count_reply": 2
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "sources": {
+        "count_sources": 4,
+        "details": [
+            {
+                "url": "https://unesource.fr",
+                "type": "blog",
+                "title": "un titre pour une source"
+            },
+            {
+                "url": "https://uneautresource.com",
+                "type": "video",
+                "title": "un titre pour ine autre source"
+            },
+            {
+                "url": "https://unestroisiemeource.fr",
+                "type": "etude",
+                "title": "un titre pour ma troisieme source source"
+            },
+            {
+                "url": "https://autremegabonnesource.com",
+                "type": "meta étude",
+                "title": "un titre pour ma troisieme source source"
+            }
+        ]
+    }
+}
